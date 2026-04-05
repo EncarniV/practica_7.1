@@ -21,4 +21,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: ${{ secrets.DOCKERHUB_USERNAME }}/practica_7.1:latest
+        tags: EncarniV/practica_7.1:latest
