@@ -21,4 +21,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: EncarniV/practica_7.1:latest
+        tags: encarniv/practica_7.1:latest
