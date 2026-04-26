@@ -32,4 +32,4 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            EncarniV/practica_7.1:latest
+            encarniv/practica_7.1:latest
